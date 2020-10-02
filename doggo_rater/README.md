@@ -15,4 +15,4 @@ Android App [Landscape]:<br>
 Web App [Chrome, Portrait]:<br>
 ![](Screenshots/web_app_portrait.jpg "Web App [Chrome] [Portrait]")<br><br>
 Web App [Chrome, Landscape]:<br>
-![](Screenshots/web_app_landscape.jpg "Web App [Chrome] [Landscape]")<br><br>
+![](Screenshots/web_app_landscape.png "Web App [Chrome] [Landscape]")<br><br>
