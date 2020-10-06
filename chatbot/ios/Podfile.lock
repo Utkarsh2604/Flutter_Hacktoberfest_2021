@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - hexcolor (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - hexcolor (from `.symlinks/plugins/hexcolor/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  hexcolor:
+    :path: ".symlinks/plugins/hexcolor/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  hexcolor: fdfb9c4258ad96e949c2dbcdf790a62194b8aa89
+
+PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
+
+COCOAPODS: 1.9.3
