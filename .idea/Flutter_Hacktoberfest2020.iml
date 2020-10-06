@@ -5,8 +5,26 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/Luck_ball/luck_ball/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/Luck_ball/luck_ball/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Tribute_App/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Tribute_App/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bmi-calculator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bmi-calculator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/doggo_rater/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/doggo_rater/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-endless-scroll/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-endless-scroll/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_calc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_calc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/frenzychat/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/frenzychat/build" />
+      <excludeFolder url="file://$MODULE_DIR$/quizzler/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/quizzler/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tictac/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tictac/build" />
       <excludeFolder url="file://$MODULE_DIR$/todo_provider/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/todo_provider/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpn-app-ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpn-app-ui/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
