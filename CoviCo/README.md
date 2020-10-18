@@ -5,11 +5,17 @@ CoviCo keeps the track of number of affected people in India due to Corona virus
 Coronavirus disease (COVID-19) is an infectious disease caused by a new virus. WHO declared it as a pandemic disease.
 As a computer science engineer i just come up with this idea to build an app which can update its users about this pandemic in India.
 
-## Build status
-Development
-
-[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
+## Results
+<p align="center">
+<img src="./screenshots/homepage_1.png" height="560" hspace="30">
+<img src="./screenshots/homepage_2.png" height="560" hspace="30">
+<br><br><br>
+<img src="./screenshots/chart.png" height="560" hspace="30">
+<img src="./screnshots/case_time_series.png" height="560" hspace="30">
+ <br><br><br>
+<img src="./screenshots/statewise.png" height="560" hspace="30">
+<img src="./screenshots/state_data.png" height="560" hspace="30">
+</p>
 
 ## Tech/framework used
 1. Dart
@@ -38,18 +44,6 @@ https://api.covid19india.org/data.json
 
 Above api is used to get the latest data.
 
-## Results
-
-<p align="center">
-<img src="./screnshots/homepage_1.png" height="560" hspace="30">
-<img src="./screnshots/homepage_2.png" height="560" hspace="30">
-<br><br><br>
-<img src="./screnshots/chart.png" height="560" hspace="30">
-<img src="./screnshots/case_time_series.png" height="560" hspace="30">
-<br><br><br>
-<img src="./screnshots/statewise.png" height="560" hspace="30">
-<img src="./screnshots/state_data.png" height="560" hspace="30">
-</p>
 
 
 
