@@ -1,7 +1,8 @@
 package io.flutter.plugins;
 
-import android.support.annotation.Keep;
-import android.support.annotation.NonNull;
+import androidx.annotation.Keep;
+import androidx.annotation.NonNull;
+
 import io.flutter.embedding.engine.FlutterEngine;
 
 /**
