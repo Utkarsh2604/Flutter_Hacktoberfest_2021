@@ -62,18 +62,6 @@
       "languageVersion": "2.2"
     },
     {
-      "name": "http",
-      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.12.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.4"
-    },
-    {
-      "name": "http_parser",
-      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.3"
-    },
-    {
       "name": "matcher",
       "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10-nullsafety.1",
       "packageUri": "lib/",
@@ -92,10 +80,10 @@
       "languageVersion": "2.10"
     },
     {
-      "name": "pedantic",
-      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.9.0",
+      "name": "provider",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/provider-2.0.1+1",
       "packageUri": "lib/",
-      "languageVersion": "2.1"
+      "languageVersion": "2.0"
     },
     {
       "name": "sky_engine",
@@ -152,13 +140,13 @@
       "languageVersion": "2.10"
     },
     {
-      "name": "bitcoin_ticker",
+      "name": "todo_provider",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-10-25T21:50:14.212723Z",
+  "generated": "2020-10-25T21:52:27.911845Z",
   "generator": "pub",
   "generatorVersion": "2.10.2"
 }
