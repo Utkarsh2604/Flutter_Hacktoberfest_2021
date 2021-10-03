@@ -5,5 +5,6 @@ List<GetPage> allRouteJourney = [
   //ui kit route 
   GetPage<dynamic>(
     name: UiKitRoutes.herrybarbar,
+    page: ()=> const 
   );
 ];
